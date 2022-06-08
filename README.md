@@ -5,8 +5,8 @@
 -      Gmail: ahmedghanim317@gmail.com
 -      Whatsapp: +970597859389
 
-ABOUT ME
-I am a Software engineer and Front-end developer, mainly working with ReactJS.
+- ABOUT ME:
+- I am a Software engineer and Front-end developer, mainly working with ReactJS.
 I am working on developing, testing, and improving web apps with modern and
 popular technologies such as React, Redux, Material-UI, and more.
 Also, The Apps have an amazing responsive design, high performance, clean &
